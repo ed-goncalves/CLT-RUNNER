@@ -1,15 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
+show_message("GAME OVER! VOCÊ FOI CONTRATADO T^T")
 
-if (room = rm_play_level)
-{
-	alarm [0] = 120;
-	alarm [2] = 180;
-}
-else
-{
-	alarm [1] = 180;
-}
+game_end();
 
 
