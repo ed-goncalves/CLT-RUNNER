@@ -1,7 +1,4 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-_position_left = true;
-
-_entrance = 246;
-_entr_spd = 5;
+instance_create_layer(room_width / 2, 300, "Button", obj_button);

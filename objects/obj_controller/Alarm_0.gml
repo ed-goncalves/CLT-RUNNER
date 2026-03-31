@@ -1,7 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-_position_left = true;
+instance_create_layer(room_width / 2, -40, "Food", obj_colectible);
 
-_entrance = 246;
-_entr_spd = 5;
+alarm [0] = 240;

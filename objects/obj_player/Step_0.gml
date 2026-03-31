@@ -27,5 +27,10 @@ if (_jump)
 // Entrada do personagem na tela
 if (y >= _entrance)
 {
-	y -= 1;
+	y -= _entr_spd;
+	if(_entr_spd >= 0)
+	{
+		_entr_spd -= .1;
+		if (_entr_spd < 0) {_entr_spd = 0;}
+	}
 }

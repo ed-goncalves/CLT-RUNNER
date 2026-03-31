@@ -1,7 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-_position_left = true;
+_spd = 3;
 
-_entrance = 246;
-_entr_spd = 5;
+

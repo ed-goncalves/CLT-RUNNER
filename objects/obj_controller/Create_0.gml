@@ -1,7 +1,14 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-_position_left = true;
 
-_entrance = 246;
-_entr_spd = 5;
+if (room = rm_play_level)
+{
+	alarm [0] = 120;
+}
+else
+{
+	alarm [1] = 180;
+}
+
+
