@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_background",
+  "name": "obj_button",
   "spriteId": {
-    "name": "spr_fundo",
-    "path": "sprites/spr_fundo/spr_fundo.yy",
+    "name": "space",
+    "path": "sprites/space/space.yy",
   },
   "solid": false,
   "visible": true,

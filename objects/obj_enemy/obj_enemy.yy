@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_enemy",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_clt_strip8",
+    "path": "sprites/spr_clt_strip8/spr_clt_strip8.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
