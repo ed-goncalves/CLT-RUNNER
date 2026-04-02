@@ -1,12 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-global._points ++;
-
-audio_play_sound(pickup, 2, 0);
-
-
-instance_destroy(obj_colectible);
-
+audio_play_sound(Newer_Wave, 1, 1);
 
 

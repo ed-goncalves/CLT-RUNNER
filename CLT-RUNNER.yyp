@@ -28,6 +28,7 @@
     {"id":{"name":"spr_hamburg_strip21","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"order":10,},
     {"id":{"name":"space","path":"sprites/space/space.yy",},"order":4,},
     {"id":{"name":"spr_batata_strip21","path":"sprites/spr_batata_strip21/spr_batata_strip21.yy",},"order":12,},
+    {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"order":6,},
     {"id":{"name":"rm_play_level","path":"rooms/rm_play_level/rm_play_level.yy",},"order":0,},
   ],
   "Options": [
