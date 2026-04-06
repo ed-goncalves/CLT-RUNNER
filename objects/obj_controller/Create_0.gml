@@ -9,7 +9,7 @@ if (room = rm_play_level)
 }
 else
 {
-	alarm [1] = 180;
+	alarm [1] = 60;
 }
 
 
